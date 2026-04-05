@@ -34,3 +34,38 @@
 14:40:08 | INFO | EVALUATING: 5. Special int&float functions
 14:40:14 | WARNING | METADATA READ ERROR: Watching full duration of 5. Special int&float functions
 14:40:14 | INFO | WATCHING: 5. Special int&float functions (Remaining: 08:31)
+14:48:46 | INFO | SYNCING: Refreshing to save server-side progress...
+14:49:02 | INFO | OPEN SECTION: Modules (Current: 0%)
+14:49:06 | INFO | EVALUATING: 1. PIP and Modules
+14:49:13 | WARNING | METADATA READ ERROR: Watching full duration of 1. PIP and Modules
+14:49:13 | INFO | WATCHING: 1. PIP and Modules (Remaining: 07:15)
+14:56:28 | INFO | SYNCING: Refreshing to save server-side progress...
+14:56:48 | INFO | OPEN SECTION: Strings (Current: 0%)
+14:56:54 | INFO | EVALUATING: 1. Special String Functions
+14:57:00 | WARNING | METADATA READ ERROR: Watching full duration of 1. Special String Functions
+14:57:00 | INFO | WATCHING: 1. Special String Functions (Remaining: 07:33)
+14:57:04 | INFO | TERMINATING: Session closed.
+15:00:51 | INFO | TERMINATED: Closing browser.
+15:01:42 | INFO | SYSTEM: Log in if needed, then press ENTER on the course player.
+15:02:05 | INFO | ESTIMATED REMAINING COURSE TIME: 00:00:00
+15:02:05 | INFO | STARTING SECTION: Function (99%)
+15:02:08 | INFO | EVALUATING: 1. Introduction to Function
+15:02:14 | INFO | SATISFIED: 1. Introduction to Function (03:00).
+15:02:14 | INFO | EVALUATING: 2. Creating a function
+15:02:21 | INFO | SATISFIED: 2. Creating a function (05:00).
+15:02:21 | INFO | EVALUATING: 3. Function Parameters
+15:02:27 | INFO | SATISFIED: 3. Function Parameters (07:00).
+15:02:27 | INFO | EVALUATING: 4. Function Return
+15:02:33 | INFO | SATISFIED: 4. Function Return (05:30).
+15:02:33 | INFO | EVALUATING: 5. Special int&float functions
+15:02:39 | INFO | PLAYING: 5. Special int&float functions | Video Timer: 00:00:24
+15:03:03 | INFO | SYNCING: Saving progress for 5. Special int&float functions...
+15:03:20 | INFO | STARTING SECTION: Modules (25%)
+15:03:23 | INFO | EVALUATING: 1. PIP and Modules
+15:03:29 | INFO | SATISFIED: 1. PIP and Modules (06:57).
+15:03:29 | INFO | STARTING SECTION: Strings (0%)
+15:03:33 | INFO | EVALUATING: 1. Special String Functions
+15:03:40 | INFO | PLAYING: 1. Special String Functions | Video Timer: 00:07:28
+15:04:51 | INFO | SHUTDOWN: Script will close after current video action.
+15:04:52 | INFO | SYNCING: Saving progress for 1. Special String Functions...
+15:05:01 | INFO | CLEANUP: Closing browser and saving session.
