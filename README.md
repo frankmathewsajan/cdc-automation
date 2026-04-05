@@ -51,7 +51,7 @@ powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | ie
 ### 2) Clone and enter project
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/frankmathewsajan/cdc-automation
 cd cdc-automate
 ```
 
@@ -81,7 +81,7 @@ uv run main.py
 ### 1) Clone and enter project
 
 ```powershell
-git clone <your-repo-url>
+git clone https://github.com/frankmathewsajan/cdc-automation
 cd cdc-automate
 ```
 
