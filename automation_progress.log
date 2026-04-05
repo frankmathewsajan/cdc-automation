@@ -38,3 +38,90 @@
 15:45:16 | INFO | SYNCING: 1. Sets
 15:45:29 | INFO | EVALUATING: 2. Dictionaries
 15:45:36 | INFO | WATCHING: 2. Dictionaries | Video Timer: 00:08:55
+15:57:21 | INFO | SYSTEM: Log in, then press ENTER on the course player page.
+15:57:42 | INFO | SECTION: Function (99%)
+15:57:45 | INFO | EVALUATING: 1. Introduction to Function
+15:57:51 | INFO | SATISFIED: 1. Introduction to Function (03:00).
+15:57:51 | INFO | EVALUATING: 2. Creating a function
+15:57:57 | INFO | SATISFIED: 2. Creating a function (05:00).
+15:57:58 | INFO | EVALUATING: 3. Function Parameters
+15:58:04 | INFO | SATISFIED: 3. Function Parameters (07:00).
+15:58:04 | INFO | EVALUATING: 4. Function Return
+15:58:10 | INFO | SATISFIED: 4. Function Return (05:30).
+15:58:10 | INFO | EVALUATING: 5. Special int&float functions
+15:58:16 | INFO | PLAYING: 5. Special int&float functions | Watch time: 00:00:24
+15:58:40 | INFO | SYNCING: 5. Special int&float functions
+16:00:17 | INFO | SYSTEM: Navigate to the player page and press ENTER.
+16:00:39 | INFO | SKIP: Introduction - Basics is done.
+16:00:46 | INFO | SKIP: Iterative Statements is done.
+16:00:52 | INFO | SKIP: Conditional Statements is done.
+16:00:59 | INFO | START: Function (99%)
+16:01:09 | INFO | EVALUATING: 1. Introduction to Function
+16:01:15 | INFO | SATISFIED: 1. Introduction to Function (03:00).
+16:01:18 | INFO | EVALUATING: 2. Creating a function
+16:01:24 | INFO | SATISFIED: 2. Creating a function (05:00).
+16:01:27 | INFO | EVALUATING: 3. Function Parameters
+16:01:34 | INFO | SATISFIED: 3. Function Parameters (07:00).
+16:01:37 | INFO | EVALUATING: 4. Function Return
+16:01:43 | INFO | SATISFIED: 4. Function Return (05:30).
+16:01:46 | INFO | EVALUATING: 5. Special int&float functions
+16:01:53 | INFO | PLAYING: 5. Special int&float functions | Video Timer: 00:00:24
+16:02:17 | INFO | SYNCING: 5. Special int&float functions
+16:02:46 | INFO | START: Modules (25%)
+16:02:55 | INFO | EVALUATING: 1. PIP and Modules
+16:03:01 | INFO | SATISFIED: 1. PIP and Modules (06:57).
+16:03:12 | INFO | START: Strings (0%)
+16:03:22 | INFO | EVALUATING: 1. Special String Functions
+16:03:28 | INFO | PLAYING: 1. Special String Functions | Video Timer: 00:07:28
+16:10:56 | INFO | SYNCING: 1. Special String Functions
+16:11:28 | INFO | EVALUATING: 1. Strings in Python
+16:11:35 | INFO | PLAYING: 1. Strings in Python | Video Timer: 00:05:26
+16:13:32 | INFO | SYNCING: 1. Strings in Python
+16:14:00 | INFO | START: List And Tuple (40%)
+16:14:10 | INFO | EVALUATING: 1. List
+16:14:16 | INFO | SATISFIED: 1. List (07:08).
+16:14:19 | INFO | EVALUATING: 2. Tuple
+16:14:26 | INFO | SATISFIED: 2. Tuple (05:05).
+16:14:35 | INFO | START: Set And Dictionary (39%)
+16:14:43 | INFO | FINISH: No more modules found. Course complete!
+16:15:28 | INFO | MODULE: Function (99%)
+16:15:35 | INFO | LOADING: 1. Introduction to Function
+16:15:46 | INFO | DONE: 1. Introduction to Function (03:00)
+16:15:48 | INFO | LOADING: 2. Creating a function
+16:15:58 | INFO | DONE: 2. Creating a function (05:00)
+16:16:00 | INFO | LOADING: 3. Function Parameters
+16:16:10 | INFO | DONE: 3. Function Parameters (07:00)
+16:16:12 | INFO | LOADING: 4. Function Return
+16:16:23 | INFO | DONE: 4. Function Return (05:30)
+16:16:25 | INFO | LOADING: 5. Special int&float functions
+16:16:36 | INFO | PLAYING: 5. Special int&float functions | Watch Required: 00:00:29
+16:17:05 | INFO | SYNCING: Refreshing session for 5. Special int&float functions...
+16:17:29 | INFO | MODULE: Modules (25%)
+16:17:36 | INFO | LOADING: 1. PIP and Modules
+16:17:46 | INFO | DONE: 1. PIP and Modules (06:57)
+16:17:53 | INFO | MODULE: Strings (20%)
+16:18:01 | INFO | LOADING: 1. Special String Functions
+16:18:11 | INFO | DONE: 1. Special String Functions (07:30)
+16:18:13 | INFO | LOADING: 1. Strings in Python
+16:18:39 | WARNING | SYNC ERROR: No metadata found for 1. Strings in Python. Watching full.
+16:18:40 | INFO | PLAYING: 1. Strings in Python | Watch Required: 00:05:31
+16:24:12 | INFO | SYNCING: Refreshing session for 1. Strings in Python...
+16:24:36 | INFO | MODULE: List And Tuple (40%)
+16:24:44 | INFO | LOADING: 1. List
+16:24:54 | INFO | DONE: 1. List (07:08)
+16:24:56 | INFO | LOADING: 2. Tuple
+16:25:06 | INFO | DONE: 2. Tuple (05:05)
+16:25:14 | INFO | MODULE: Set And Dictionary (39%)
+16:25:21 | INFO | LOADING: 1. Sets
+16:25:32 | INFO | DONE: 1. Sets (06:02)
+16:25:34 | INFO | LOADING: 2. Dictionaries
+16:25:45 | INFO | PLAYING: 2. Dictionaries | Watch Required: 00:00:30
+16:26:15 | INFO | SYNCING: Refreshing session for 2. Dictionaries...
+16:26:40 | INFO | MODULE: Classes And Objects (0%)
+16:26:47 | INFO | LOADING: 1. Introduction to Class
+16:27:13 | WARNING | SYNC ERROR: No metadata found for 1. Introduction to Class. Watching full.
+16:27:14 | INFO | PLAYING: 1. Introduction to Class | Watch Required: 00:04:25
+16:31:11 | INFO | SKIP SIGNAL: Advancing...
+16:32:50 | INFO | BOOT: Initializing Chrome Engine (may take a moment)...
+16:32:51 | INFO | BOOT: Navigating to https://cdc.vit.ac.in/mycourses/details?id=8a6dcc8d-54d9-45f3-9dd6-0c43e15538d0&type=mycourses
+16:32:53 | INFO | BOOT: Waiting for Course Player to load...
