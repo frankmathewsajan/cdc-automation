@@ -16,3 +16,21 @@
 14:32:24 | INFO | SYNCING: Refreshing to save progress for 4. Function Return...
 14:32:35 | INFO | COURSE COMPLETED OR ALL SECTIONS PROCESSED.
 14:32:35 | INFO | SCRIPT TERMINATED. Closing session.
+14:32:56 | INFO | ACTION REQUIRED: Log in and navigate to the video player.
+14:32:56 | INFO | Once the first video is loaded, press ENTER in this terminal.
+14:35:31 | INFO | SKIP SECTION: Introduction - Basics (Finished)
+14:35:32 | INFO | SKIP SECTION: Iterative Statements (Finished)
+14:35:33 | INFO | SKIP SECTION: Conditional Statements (Finished)
+14:35:35 | INFO | OPEN SECTION: Function (Current: 79%)
+14:35:39 | INFO | EVALUATING: 1. Introduction to Function
+14:35:46 | INFO | FINISHED: 1. Introduction to Function (Already satisfied)
+14:35:46 | INFO | EVALUATING: 2. Creating a function
+14:35:52 | INFO | FINISHED: 2. Creating a function (Already satisfied)
+14:35:52 | INFO | EVALUATING: 3. Function Parameters
+14:35:58 | INFO | FINISHED: 3. Function Parameters (Already satisfied)
+14:35:58 | INFO | EVALUATING: 4. Function Return
+14:36:05 | INFO | WATCHING: 4. Function Return (Remaining: 03:48)
+14:39:53 | INFO | SYNCING: Refreshing to save server-side progress...
+14:40:08 | INFO | EVALUATING: 5. Special int&float functions
+14:40:14 | WARNING | METADATA READ ERROR: Watching full duration of 5. Special int&float functions
+14:40:14 | INFO | WATCHING: 5. Special int&float functions (Remaining: 08:31)
