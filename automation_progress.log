@@ -1,91 +1,40 @@
-14:23:01 | INFO | SYSTEM READY. Log in and navigate, then press ENTER in terminal.
-14:25:19 | INFO | SETUP COMPLETE. Navigate to course and press ENTER in terminal.
-14:26:03 | INFO | SKIPPING SECTION: Introduction - Basics (Already 100%)
-14:26:04 | INFO | SKIPPING SECTION: Iterative Statements (Already 100%)
-14:26:05 | INFO | SKIPPING SECTION: Conditional Statements (Already 100%)
-14:26:06 | INFO | OPENING SECTION: Function (Progress: 75%)
-14:26:11 | INFO | CHECKING VIDEO: 1. Introduction to Function
-14:26:17 | INFO | DONE: 1. Introduction to Function (03:00/02:49).
-14:26:17 | INFO | CHECKING VIDEO: 2. Creating a function
-14:26:23 | INFO | DONE: 2. Creating a function (05:00/04:53).
-14:26:23 | INFO | CHECKING VIDEO: 3. Function Parameters
-14:26:29 | INFO | DONE: 3. Function Parameters (07:00/04:52).
-14:26:30 | INFO | CHECKING VIDEO: 4. Function Return
-14:26:36 | WARNING | METADATA ERROR for 4. Function Return. Defaulting to full duration.
-14:26:36 | INFO | WATCHING: 4. Function Return | Time Required: 05:48
-14:32:24 | INFO | SYNCING: Refreshing to save progress for 4. Function Return...
-14:32:35 | INFO | COURSE COMPLETED OR ALL SECTIONS PROCESSED.
-14:32:35 | INFO | SCRIPT TERMINATED. Closing session.
-14:32:56 | INFO | ACTION REQUIRED: Log in and navigate to the video player.
-14:32:56 | INFO | Once the first video is loaded, press ENTER in this terminal.
-14:35:31 | INFO | SKIP SECTION: Introduction - Basics (Finished)
-14:35:32 | INFO | SKIP SECTION: Iterative Statements (Finished)
-14:35:33 | INFO | SKIP SECTION: Conditional Statements (Finished)
-14:35:35 | INFO | OPEN SECTION: Function (Current: 79%)
-14:35:39 | INFO | EVALUATING: 1. Introduction to Function
-14:35:46 | INFO | FINISHED: 1. Introduction to Function (Already satisfied)
-14:35:46 | INFO | EVALUATING: 2. Creating a function
-14:35:52 | INFO | FINISHED: 2. Creating a function (Already satisfied)
-14:35:52 | INFO | EVALUATING: 3. Function Parameters
-14:35:58 | INFO | FINISHED: 3. Function Parameters (Already satisfied)
-14:35:58 | INFO | EVALUATING: 4. Function Return
-14:36:05 | INFO | WATCHING: 4. Function Return (Remaining: 03:48)
-14:39:53 | INFO | SYNCING: Refreshing to save server-side progress...
-14:40:08 | INFO | EVALUATING: 5. Special int&float functions
-14:40:14 | WARNING | METADATA READ ERROR: Watching full duration of 5. Special int&float functions
-14:40:14 | INFO | WATCHING: 5. Special int&float functions (Remaining: 08:31)
-14:48:46 | INFO | SYNCING: Refreshing to save server-side progress...
-14:49:02 | INFO | OPEN SECTION: Modules (Current: 0%)
-14:49:06 | INFO | EVALUATING: 1. PIP and Modules
-14:49:13 | WARNING | METADATA READ ERROR: Watching full duration of 1. PIP and Modules
-14:49:13 | INFO | WATCHING: 1. PIP and Modules (Remaining: 07:15)
-14:56:28 | INFO | SYNCING: Refreshing to save server-side progress...
-14:56:48 | INFO | OPEN SECTION: Strings (Current: 0%)
-14:56:54 | INFO | EVALUATING: 1. Special String Functions
-14:57:00 | WARNING | METADATA READ ERROR: Watching full duration of 1. Special String Functions
-14:57:00 | INFO | WATCHING: 1. Special String Functions (Remaining: 07:33)
-14:57:04 | INFO | TERMINATING: Session closed.
-15:00:51 | INFO | TERMINATED: Closing browser.
-15:01:42 | INFO | SYSTEM: Log in if needed, then press ENTER on the course player.
-15:02:05 | INFO | ESTIMATED REMAINING COURSE TIME: 00:00:00
-15:02:05 | INFO | STARTING SECTION: Function (99%)
-15:02:08 | INFO | EVALUATING: 1. Introduction to Function
-15:02:14 | INFO | SATISFIED: 1. Introduction to Function (03:00).
-15:02:14 | INFO | EVALUATING: 2. Creating a function
-15:02:21 | INFO | SATISFIED: 2. Creating a function (05:00).
-15:02:21 | INFO | EVALUATING: 3. Function Parameters
-15:02:27 | INFO | SATISFIED: 3. Function Parameters (07:00).
-15:02:27 | INFO | EVALUATING: 4. Function Return
-15:02:33 | INFO | SATISFIED: 4. Function Return (05:30).
-15:02:33 | INFO | EVALUATING: 5. Special int&float functions
-15:02:39 | INFO | PLAYING: 5. Special int&float functions | Video Timer: 00:00:24
-15:03:03 | INFO | SYNCING: Saving progress for 5. Special int&float functions...
-15:03:20 | INFO | STARTING SECTION: Modules (25%)
-15:03:23 | INFO | EVALUATING: 1. PIP and Modules
-15:03:29 | INFO | SATISFIED: 1. PIP and Modules (06:57).
-15:03:29 | INFO | STARTING SECTION: Strings (0%)
-15:03:33 | INFO | EVALUATING: 1. Special String Functions
-15:03:40 | INFO | PLAYING: 1. Special String Functions | Video Timer: 00:07:28
-15:04:51 | INFO | SHUTDOWN: Script will close after current video action.
-15:04:52 | INFO | SYNCING: Saving progress for 1. Special String Functions...
-15:05:01 | INFO | CLEANUP: Closing browser and saving session.
-15:05:16 | INFO | SYSTEM: Log in, then press ENTER on the course player page.
-15:05:45 | INFO | ESTIMATED REMAINING TIME: 00:28:24
-15:05:46 | INFO | SECTION: Function (99%)
-15:05:49 | INFO | EVALUATING: 1. Introduction to Function
-15:05:55 | INFO | FINISHED: 1. Introduction to Function (03:00).
-15:05:55 | INFO | EVALUATING: 2. Creating a function
-15:06:02 | INFO | FINISHED: 2. Creating a function (05:00).
-15:06:02 | INFO | EVALUATING: 3. Function Parameters
-15:06:08 | INFO | FINISHED: 3. Function Parameters (07:00).
-15:06:08 | INFO | EVALUATING: 4. Function Return
-15:06:14 | INFO | FINISHED: 4. Function Return (05:30).
-15:06:14 | INFO | EVALUATING: 5. Special int&float functions
-15:06:21 | INFO | WATCHING: 5. Special int&float functions | Video Timer: 00:00:24
-15:06:45 | INFO | SYNCING: 5. Special int&float functions
-15:06:58 | INFO | SECTION: Modules (25%)
-15:07:01 | INFO | EVALUATING: 1. PIP and Modules
-15:07:07 | INFO | FINISHED: 1. PIP and Modules (06:57).
-15:07:07 | INFO | SECTION: Strings (2%)
-15:07:11 | INFO | EVALUATING: 1. Special String Functions
-15:07:17 | INFO | WATCHING: 1. Special String Functions | Video Timer: 00:06:28
+15:13:46 | INFO | SYNCING: 1. Special String Functions
+15:14:06 | INFO | EVALUATING: 1. Strings in Python
+15:14:12 | INFO | WATCHING: 1. Strings in Python | Video Timer: 00:05:26
+15:19:17 | INFO | SYSTEM: Log in, then press ENTER on the course player page.
+15:19:28 | INFO | ESTIMATED REMAINING TIME: 00:28:24
+15:19:28 | INFO | SECTION: Function (99%)
+15:19:31 | INFO | EVALUATING: 1. Introduction to Function
+15:19:38 | INFO | FINISHED: 1. Introduction to Function (03:00).
+15:19:38 | INFO | EVALUATING: 2. Creating a function
+15:19:44 | INFO | FINISHED: 2. Creating a function (05:00).
+15:19:44 | INFO | EVALUATING: 3. Function Parameters
+15:19:50 | INFO | FINISHED: 3. Function Parameters (07:00).
+15:19:50 | INFO | EVALUATING: 4. Function Return
+15:19:56 | INFO | FINISHED: 4. Function Return (05:30).
+15:19:56 | INFO | EVALUATING: 5. Special int&float functions
+15:20:03 | INFO | WATCHING: 5. Special int&float functions | Video Timer: 00:00:24
+15:20:27 | INFO | SYNCING: 5. Special int&float functions
+15:20:40 | INFO | SECTION: Modules (25%)
+15:20:43 | INFO | EVALUATING: 1. PIP and Modules
+15:20:49 | INFO | FINISHED: 1. PIP and Modules (06:57).
+15:20:50 | INFO | SECTION: Strings (27%)
+15:20:54 | INFO | EVALUATING: 1. Special String Functions
+15:21:00 | INFO | WATCHING: 1. Special String Functions | Video Timer: 00:00:28
+15:21:28 | INFO | SYNCING: 1. Special String Functions
+15:21:41 | INFO | EVALUATING: 1. Strings in Python
+15:21:47 | INFO | WATCHING: 1. Strings in Python | Video Timer: 00:03:26
+15:25:14 | INFO | SYNCING: 1. Strings in Python
+15:25:27 | INFO | SECTION: List And Tuple (0%)
+15:25:30 | INFO | EVALUATING: 1. List
+15:25:37 | INFO | WATCHING: 1. List | Video Timer: 00:07:18
+15:32:55 | INFO | SYNCING: 1. List
+15:33:08 | INFO | EVALUATING: 2. Tuple
+15:33:14 | INFO | WATCHING: 2. Tuple | Video Timer: 00:05:20
+15:38:35 | INFO | SYNCING: 2. Tuple
+15:38:48 | INFO | SECTION: Set And Dictionary (0%)
+15:38:52 | INFO | EVALUATING: 1. Sets
+15:38:58 | INFO | WATCHING: 1. Sets | Video Timer: 00:06:18
+15:45:16 | INFO | SYNCING: 1. Sets
+15:45:29 | INFO | EVALUATING: 2. Dictionaries
+15:45:36 | INFO | WATCHING: 2. Dictionaries | Video Timer: 00:08:55
