@@ -69,3 +69,23 @@
 15:04:51 | INFO | SHUTDOWN: Script will close after current video action.
 15:04:52 | INFO | SYNCING: Saving progress for 1. Special String Functions...
 15:05:01 | INFO | CLEANUP: Closing browser and saving session.
+15:05:16 | INFO | SYSTEM: Log in, then press ENTER on the course player page.
+15:05:45 | INFO | ESTIMATED REMAINING TIME: 00:28:24
+15:05:46 | INFO | SECTION: Function (99%)
+15:05:49 | INFO | EVALUATING: 1. Introduction to Function
+15:05:55 | INFO | FINISHED: 1. Introduction to Function (03:00).
+15:05:55 | INFO | EVALUATING: 2. Creating a function
+15:06:02 | INFO | FINISHED: 2. Creating a function (05:00).
+15:06:02 | INFO | EVALUATING: 3. Function Parameters
+15:06:08 | INFO | FINISHED: 3. Function Parameters (07:00).
+15:06:08 | INFO | EVALUATING: 4. Function Return
+15:06:14 | INFO | FINISHED: 4. Function Return (05:30).
+15:06:14 | INFO | EVALUATING: 5. Special int&float functions
+15:06:21 | INFO | WATCHING: 5. Special int&float functions | Video Timer: 00:00:24
+15:06:45 | INFO | SYNCING: 5. Special int&float functions
+15:06:58 | INFO | SECTION: Modules (25%)
+15:07:01 | INFO | EVALUATING: 1. PIP and Modules
+15:07:07 | INFO | FINISHED: 1. PIP and Modules (06:57).
+15:07:07 | INFO | SECTION: Strings (2%)
+15:07:11 | INFO | EVALUATING: 1. Special String Functions
+15:07:17 | INFO | WATCHING: 1. Special String Functions | Video Timer: 00:06:28
